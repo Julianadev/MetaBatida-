@@ -1,0 +1,15 @@
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\bin\Debug\net6.0\Meta-Batida.exe
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\bin\Debug\net6.0\Meta-Batida.deps.json
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\bin\Debug\net6.0\Meta-Batida.runtimeconfig.json
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\bin\Debug\net6.0\Meta-Batida.dll
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\bin\Debug\net6.0\Meta-Batida.pdb
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\obj\Debug\net6.0\Meta-Batida.csproj.AssemblyReference.cache
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\obj\Debug\net6.0\Meta-Batida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\obj\Debug\net6.0\Meta-Batida.AssemblyInfoInputs.cache
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\obj\Debug\net6.0\Meta-Batida.AssemblyInfo.cs
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\obj\Debug\net6.0\Meta-Batida.csproj.CoreCompileInputs.cache
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\obj\Debug\net6.0\Meta-Batida.dll
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\obj\Debug\net6.0\refint\Meta-Batida.dll
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\obj\Debug\net6.0\Meta-Batida.pdb
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\obj\Debug\net6.0\Meta-Batida.genruntimeconfig.cache
+C:\Users\jully\OneDrive\Documentos\Meta-Batida\obj\Debug\net6.0\ref\Meta-Batida.dll
